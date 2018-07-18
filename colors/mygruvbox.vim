@@ -9,7 +9,7 @@ highlight clear
 set background=dark
 
 if exists("syntax_on")
-    syntax reset
+  syntax reset
 endif
 
 let g:colors_name="mygruvbox"
@@ -132,7 +132,7 @@ hi         DiffAdd guifg=#98971a guibg=none    gui=none
 hi      DiffChange guifg=#d79921 guibg=none    gui=none
 hi      DiffDelete guifg=#cc241d guibg=none    gui=none
 hi        DiffText guifg=#a8a8a8 guibg=none    gui=none
-hi        DiffFile guifg=none    guibg=none    gui=underline
+hi        DiffFile guifg=#458588 guibg=none    gui=none
 
 hi            link diffAdded           DiffAdd
 hi            link diffRemoved      DiffDelete
