@@ -21,8 +21,8 @@ let g:colors_name="mygruvbox"
 " --------------------------------
 " Editor settings
 " --------------------------------
-hi          Normal guifg=#d5c4a1 guibg=#1d2021 gui=none
-hi          Cursor guifg=#1d2021 guibg=#d5c4a1 gui=none
+hi          Normal guifg=#a89984 guibg=#1d2021 gui=none
+hi          Cursor guifg=#1d2021 guibg=#a89984 gui=none
 hi      CursorLine guifg=none    guibg=#282828 gui=none
 hi          LineNr guifg=#504945 guibg=none    gui=none
 hi    CursorLineNR guifg=none    guibg=#282828 gui=none
