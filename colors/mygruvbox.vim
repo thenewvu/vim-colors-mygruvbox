@@ -71,10 +71,10 @@ hi       VisualNOS guifg=none    guibg=#282828 gui=none
 hi         NonText guifg=#504945 guibg=none    gui=none
 hi            Todo guifg=#458588 guibg=none    gui=none
 hi      Underlined guifg=none    guibg=none    gui=underline
-hi           Error guifg=#f22c40 guibg=none    gui=none
-hi        ErrorMsg guifg=#f22c40 guibg=none    gui=none
-hi      WarningMsg guifg=#d5911a guibg=none    gui=none
-hi          Ignore guifg=#262626 guibg=none    gui=none
+hi           Error guifg=#cc241d guibg=none    gui=none
+hi        ErrorMsg guifg=#cc241d guibg=none    gui=none
+hi      WarningMsg guifg=#d79921 guibg=none    gui=none
+hi          Ignore guifg=#1d2021 guibg=none    gui=none
 hi      SpecialKey guifg=#458588 guibg=none    gui=none
 
 " --------------------------------
@@ -94,7 +94,7 @@ hi        Function guifg=none    guibg=none    gui=none
 " --------------------------------
 " Language constructs
 " --------------------------------
-hi         Comment guifg=#504945 guibg=none    gui=none
+hi         Comment guifg=#504945 guibg=none    gui=italic
 
 hi       Statement guifg=#458588 guibg=none    gui=none
 hi     Conditional guifg=#458588 guibg=none    gui=none
